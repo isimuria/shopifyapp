@@ -1,0 +1,1 @@
+console.log("this is comming from script tag api")
