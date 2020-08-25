@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 26 2020 00:04:38 GMT+0200 (Central European Summer Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-25-7-2020-23-34-30.txt
+
+
+Deleted files:
+* .next/static/development/pages/next/dist/pages/_error.js.map
+
+
+Renamed files:
