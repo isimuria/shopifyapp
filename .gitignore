@@ -1,4 +1,3 @@
-node_modules/
-logs/
-.history/
-.next/
+node_modules
+.history
+.next
